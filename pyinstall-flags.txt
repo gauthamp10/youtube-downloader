@@ -1,0 +1,1 @@
+python -m eel main.py web --noconsole --onefile --add-binary "ffmpeg.exe;ffmpeg.exe" --add-data "ffprobe.exe;ffprobe.exe"
