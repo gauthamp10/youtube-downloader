@@ -2,5 +2,5 @@ youtube_dl==2019.6.8
 Eel==0.10.4
 wget==3.2
 pydub==0.23.1
-requests==2.18.4
+requests==2.20.0
 PyInstaller==3.4
